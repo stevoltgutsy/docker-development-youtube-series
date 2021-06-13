@@ -3,7 +3,7 @@ name: "Self Hosted Runner"
 on:
   push:
     branches:
-      - self_hosted_runners
+      - master
 
 jobs:
   selfhostedrunner:
